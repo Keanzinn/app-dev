@@ -4,60 +4,6 @@
 
 ![](https://wallpaperaccess.com/full/2892516.jpg) 
   
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Why I Love GATE</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background-color: #333;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-    main {
-      padding: 20px;
-    }
-    section {
-      margin-bottom: 20px;
-    }
-    h2 {
-      color: #444;
-    }
-    p {
-      line-height: 1.6;
-    }
-    .highlight {
-      background-color: #ffeb3b;
-      padding: 5px;
-      border-radius: 5px;
-    }
-    footer {
-      text-align: center;
-      padding: 10px;
-      background-color: #333;
-      color: white;
-    }
-    footer a {
-      color: #ffeb3b;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
 
 <header>
   <h1>Why I Love GATE</h1>
