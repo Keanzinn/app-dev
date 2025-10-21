@@ -1,3 +1,5 @@
-<h1/> My Favorite Movies <h1/> 
+<h1/> My Favorite Movie/Series <h1/> 
 
-  <h5/><p/>My favorite Series is GATE!<p/><h5/>
+  <h5/><p/> My favorite Series is GATE![title](https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri) <p/><h5/>
+
+  
